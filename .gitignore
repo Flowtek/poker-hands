@@ -1,0 +1,9 @@
+/data/hypersonic/lportal.lck
+/data/hypersonic/lportal.log
+/data/hypersonic/lportal.tmp/*
+logs/*
+/tomcat-8.0.32/logs/*
+/tomcat-8.0.32/temp/*
+/tomcat-8.0.32/work/Catalina/localhost/ROOT
+/osgi/state/*
+/data/elasticsearch
