@@ -34,3 +34,4 @@ Poker hands are ranked by the following partial order from lowest to highest.
 
 ## Notes on development
 - Suit is only relevant for detecting (straight) flush and valid sets of hands. This means if we have two valid hands (no duplicate cards), suit only matters if all cards of a hand are of the same suit.
+- Ace does not count as 1 in the rules, so no straight with ace as the lowest value possible
